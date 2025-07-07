@@ -618,6 +618,10 @@ trainer.train()
 https://blog.csdn.net/kljyrx/article/details/140153379
 
 
+### model init issue
+https://discuss.huggingface.co/t/can-trainer-hyperparameter-search-also-tune-the-drop-out-rate/5455/2
+
+
 
 trainer源码解读
 
