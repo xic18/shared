@@ -626,3 +626,9 @@ https://discuss.huggingface.co/t/can-trainer-hyperparameter-search-also-tune-the
 trainer源码解读
 
 https://blog.csdn.net/weixin_38252409/article/details/139168463?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EPaidSort-2-139168463-blog-118802935.235%5Ev43%5Econtrol&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EPaidSort-2-139168463-blog-118802935.235%5Ev43%5Econtrol&utm_relevant_index=4
+
+
+
+
+
+https://discuss.huggingface.co/t/can-trainer-hyperparameter-search-also-tune-the-drop-out-rate/5455/2
